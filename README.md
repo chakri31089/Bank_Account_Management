@@ -7,14 +7,14 @@ The class Bank_Account defines properties and methods to manage bank accounts.
 Private data members: Money_Deposit (balance), type (account type), acno (account number), name (account holder's name).
 
 #### Public methods:
-report(): Display account details.
-retMoney_Deposit(): Return balance.
-create_Bank_Account(): Create a new bank account.
-dep(int x): Deposit money.
-retacno(), rettype(): Return account number and type.
-Display_Account(): Display account details.
-Updation(): Update account details.
-draw(int x): Withdraw money.
+* report(): Display account details.
+* retMoney_Deposit(): Return balance.
+* create_Bank_Account(): Create a new bank account.
+* dep(int x): Deposit money.
+* retacno(), rettype(): Return account number and type.
+* Display_Account(): Display account details.
+* Updation(): Update account details.
+* draw(int x): Withdraw money.
 
 ## File Operations and Main Menu
 The main() function displays a menu for various banking operations.
